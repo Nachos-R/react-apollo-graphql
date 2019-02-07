@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can'tf run:
+In the project directory, you can't run:
 
 ### `npm start`
 
